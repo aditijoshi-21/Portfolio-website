@@ -253,7 +253,10 @@ header.sticky{
     transition: all .50s ease;
     cursor: pointer;
 }
-
+.box img{
+    margin-bottom: 20px;
+    width: 30%;
+}
 
 .box h3{
     font-size: 20px;
